@@ -1,0 +1,1 @@
+All you hav eto do is changed the loggedin cookie to true. We know htis cuz its a good guess, but also if you look at the cookies you see that cookie there.
